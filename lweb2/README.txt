@@ -21,3 +21,5 @@ di login tramite l'istruzione ( $_SESSION['data'] = time() ).
 Le pagine dalla 1 alla 5 sono rimaste invariate, tranne che per l'aggiungiunta del controllo di sessione.
 E' stato inoltre inserito un quiz, al termine del quale una volta aver risposto a TUTTE le domande, si visualizza il punteggio e le risposte errate;
 inoltre si ha la possibilità, tramite dei button, di effettuare nuovamente il quiz, di tornare alla home o di visionare le risposte.
+
+indirizzo lweb : http://lweb.diag.uniroma1.it/~lweb29/lweb2/install.php
